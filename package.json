@@ -1,13 +1,13 @@
 {
 	"name": "ioet-exercise-acme",
 	"version": "1.0.0",
-	"description": "",
+	"description": "My solution for ioet challenge.",
 	"main": "index.js",
 	"scripts": {
 		"start": "node src/index.js",
 		"test": "jest"
 	},
-	"author": "Adrian Zambrano",
+	"author": "Adrian Zambrano <jadrianzc99@gmail.com>",
 	"license": "MIT",
 	"devDependencies": {
 		"jest": "^28.1.0"
