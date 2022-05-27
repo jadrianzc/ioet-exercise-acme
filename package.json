@@ -1,0 +1,15 @@
+{
+	"name": "ioet-exercise-acme",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node src/index.js",
+		"test": "jest"
+	},
+	"author": "Adrian Zambrano",
+	"license": "MIT",
+	"devDependencies": {
+		"jest": "^28.1.0"
+	}
+}
